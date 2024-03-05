@@ -40,3 +40,7 @@
 
 
 // 3 different sorting techniques (louie u got this)]
+
+
+
+// different sorting algorithms 
