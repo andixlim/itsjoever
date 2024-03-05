@@ -36,11 +36,12 @@
 // Unsure what this is for as of the moment but yay thats 2a
 
 
+//header files, classes & inheritance
 
 
-
-// 3 different sorting techniques (louie u got this)]
-
+// 3 different sorting techniques (louie u got this)
 
 
 // different sorting algorithms 
+
+//sorting analysis
